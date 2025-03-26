@@ -1,4 +1,4 @@
-![Profile Banner](coverprofile.png)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apanii25&label=Profile%20views&color=0e75b6&style=flat" alt="apanii25" /> </p>
 
