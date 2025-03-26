@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **React, Node.js, Docker, Kubernetes, and Prometheus.**
 - 🎯 Passionate about SRE, DevOps, and Cloud Technologies.**
 - 📫 How to reach me: **[anuradha.partudkar@gmail.com](mailto:anuradha.partudkar@gmail.com)**
-- 📄 [View My Resume](#)  
+- 📄 [View My Resume](https://drive.google.com/file/d/1UzFTKFBOqGTG-p1GzZ-U3V_f71vq2cd7/view?usp=sharing)  
 
 ## 🚀 Technical Skills
 
